@@ -1,0 +1,28 @@
+# Claude Code inspired theme
+# Warm cream background + terracotta accents
+
+background = #FDFCFA
+foreground = #111111
+cursor-color = #D97757
+selection-background = #E8DFD4
+selection-foreground = #111111
+
+# Normal colors
+palette = 0=#111111
+palette = 1=#C75A3A
+palette = 2=#6B8C5A
+palette = 3=#C49A3C
+palette = 4=#5A7BAF
+palette = 5=#A06B9A
+palette = 6=#5A9E8F
+palette = 7=#E8E0D4
+
+# Bright colors
+palette = 8=#6B6456
+palette = 9=#D97757
+palette = 10=#7FA86D
+palette = 11=#D4AA4C
+palette = 12=#6B8FC4
+palette = 13=#B57DAF
+palette = 14=#6BB3A2
+palette = 15=#FAF6F0
