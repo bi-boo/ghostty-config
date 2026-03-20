@@ -44,6 +44,9 @@ shell-integration-features = cursor,sudo,title
 
 # --- Claude Code ---
 command = /Users/baozheng/.local/bin/claude
+env = HTTP_PROXY=http://127.0.0.1:7890
+env = HTTPS_PROXY=http://127.0.0.1:7890
+env = NO_PROXY=localhost,127.0.0.1,*.xiaojukeji.com,*.didi.cn,*.didiglobal.com,*.didichuxing.com
 initial-window = true
 quit-after-last-window-closed = true
 notify-on-command-finish = always
@@ -63,3 +66,4 @@ keybind = ctrl+shift+up=jump_to_prompt:-1
 keybind = ctrl+shift+down=jump_to_prompt:1
 keybind = cmd+shift+equal=equalize_splits
 keybind = performable:ctrl+c=copy_to_clipboard
+keybind = super+v=text:\x16
