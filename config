@@ -5,6 +5,7 @@
 # ============================================
 
 # --- Typography ---
+font-family = SF Mono
 font-size = 17
 font-thicken = true
 adjust-cell-height = 2
