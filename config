@@ -66,4 +66,3 @@ keybind = ctrl+shift+up=jump_to_prompt:-1
 keybind = ctrl+shift+down=jump_to_prompt:1
 keybind = cmd+shift+equal=equalize_splits
 keybind = performable:ctrl+c=copy_to_clipboard
-keybind = super+v=text:\x16
